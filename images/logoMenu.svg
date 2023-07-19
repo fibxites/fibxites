@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 309.87 94.57">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffd60a;
+        font-family: Anton-Regular, Anton;
+        font-size: 60px;
+        letter-spacing: .25em;
+      }
+
+      .cls-2 {
+        fill: #780840;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <rect class="cls-2" x="1.38" y="7.29" width="300" height="80" rx="10" ry="10" transform="translate(-2.27 7.99) rotate(-3)"/>
+    <text class="cls-1" transform="translate(4.89 71.41)"><tspan x="0" y="0">FIBXITES</tspan></text>
+  </g>
+</svg>
